@@ -4,5 +4,25 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
-  m_configObjects: {}
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Starting Scene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Fast Food.unity
+    guid: aab4bdc0d29582a5089225d3084e78ca
+  - enabled: 1
+    path: Assets/Scenes/Apartment 2.unity
+    guid: 3fdce341ce06df1c7908ffe6be159d98
+  - enabled: 1
+    path: Assets/Scenes/FuturisticRoom.unity
+    guid: 4f2a00788554a104a92e0f44ed0abf0e
+  - enabled: 1
+    path: Assets/Scenes/InterrogationRoom.unity
+    guid: c687a11a2aba8c64f91762645e6b979f
+  - enabled: 0
+    path: Assets/Scenes/Apartment 1.unity
+    guid: 44608cdb9f7cb95ec89e79d082e42b82
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 0ca96b04321ce1b41b718f85f5487343, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 204f4299aed333a4c8ac5e82bf1549bf, type: 2}
